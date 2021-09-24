@@ -1,0 +1,126 @@
+INSERT INTO ulum.surahs (arabic,latin,sajda,ayah,created_at,updated_at,deleted_at) VALUES
+	 ('سورة الفاتحة','Al-Fatiha','0',7,NULL,NULL,NULL),
+	 ('سورة البقرة','Al-Baqara','0',286,NULL,NULL,NULL),
+	 ('سورة آل عمران','Aal-e-Imran','0',200,NULL,NULL,NULL),
+	 ('سورة النساء','An-Nisa','0',176,NULL,NULL,NULL),
+	 ('سورة المائدة','Al-Maeda','0',120,NULL,NULL,NULL),
+	 ('سورة الأنعام','Al-Anaam','0',165,NULL,NULL,NULL),
+	 ('سورة الأعراف','Al-Araf','206',206,NULL,NULL,NULL),
+	 ('سورة الأنفال','Al-Anfal','0',75,NULL,NULL,NULL),
+	 ('سورة التوبة','At-Taubah','0',129,NULL,NULL,NULL),
+	 ('سورة يونس','Yunus','0',109,NULL,NULL,NULL);
+INSERT INTO ulum.surahs (arabic,latin,sajda,ayah,created_at,updated_at,deleted_at) VALUES
+	 ('سورة هود','Hud','0',123,NULL,NULL,NULL),
+	 ('سورة يوسف','Yusuf','0',111,NULL,NULL,NULL),
+	 ('سورة الرعد','Ar-Rad','15',43,NULL,NULL,NULL),
+	 ('سورة إبراهيم','Ibrahim','0',52,NULL,NULL,NULL),
+	 ('سورة الحجر','Al-Hijr','0',99,NULL,NULL,NULL),
+	 ('سورة النحل','An-Nahl','50',128,NULL,NULL,NULL),
+	 ('سورة الإسراء','Al-Isra','100',111,NULL,NULL,NULL),
+	 ('سورة الكهف','Al-Kahf','0',110,NULL,NULL,NULL),
+	 ('سورة مريم','Maryam','58',98,NULL,NULL,NULL),
+	 ('سورة طه','Taha','0',135,NULL,NULL,NULL);
+INSERT INTO ulum.surahs (arabic,latin,sajda,ayah,created_at,updated_at,deleted_at) VALUES
+	 ('سورة الأنبياء','Al-Anbiya','0',112,NULL,NULL,NULL),
+	 ('سورة الحج','Al-Hajj','18',78,NULL,NULL,NULL),
+	 ('سورة المؤمنون','Al-Mumenoon','0',118,NULL,NULL,NULL),
+	 ('سورة النور','An-Noor','0',64,NULL,NULL,NULL),
+	 ('سورة الفرقان','Al-Furqan','60',77,NULL,NULL,NULL),
+	 ('سورة الشعراء','Ash-Shuara','0',227,NULL,NULL,NULL),
+	 ('سورة النمل','An-Naml','26',93,NULL,NULL,NULL),
+	 ('سورة القصص','Al-Qasas','0',88,NULL,NULL,NULL),
+	 ('سورة العنكبوت','Al-Ankaboot','0',69,NULL,NULL,NULL),
+	 ('سورة الروم','Ar-Room','0',60,NULL,NULL,NULL);
+INSERT INTO ulum.surahs (arabic,latin,sajda,ayah,created_at,updated_at,deleted_at) VALUES
+	 ('سورة لقمان','Luqman','0',34,NULL,NULL,NULL),
+	 ('سورة السجدة','As-Sajda','15',30,NULL,NULL,NULL),
+	 ('سورة الأحزاب','Al-Ahzab','0',73,NULL,NULL,NULL),
+	 ('سورة سبأ','Saba','0',54,NULL,NULL,NULL),
+	 ('سورة فاطر','Fatir','0',45,NULL,NULL,NULL),
+	 ('سورة يس','Ya Seen','0',83,NULL,NULL,NULL),
+	 ('سورة الصافات','As-Saaffat','0',182,NULL,NULL,NULL),
+	 ('سورة ص','Sad','24',88,NULL,NULL,NULL),
+	 ('سورة الزمر','Az-Zumar','0',75,NULL,NULL,NULL),
+	 ('سورة غافر','Ghafir','0',85,NULL,NULL,NULL);
+INSERT INTO ulum.surahs (arabic,latin,sajda,ayah,created_at,updated_at,deleted_at) VALUES
+	 ('سورة فصلت','Fussilat','38',54,NULL,NULL,NULL),
+	 ('سورة الشورى','Ash-Shura','0',53,NULL,NULL,NULL),
+	 ('سورة الزخرف','Az-Zukhruf','0',89,NULL,NULL,NULL),
+	 ('سورة الدخان','Ad-Dukhan','0',59,NULL,NULL,NULL),
+	 ('سورة الجاثية','Al-Jathiya','0',37,NULL,NULL,NULL),
+	 ('سورة الأحقاف','Al-Ahqaf','0',35,NULL,NULL,NULL),
+	 ('سورة محمد','Muhammad','0',38,NULL,NULL,NULL),
+	 ('سورة الفتح','Al-Fath','0',29,NULL,NULL,NULL),
+	 ('سورة الحجرات','Al-Hujraat','0',18,NULL,NULL,NULL),
+	 ('سورة ق','Qaf','0',45,NULL,NULL,NULL);
+INSERT INTO ulum.surahs (arabic,latin,sajda,ayah,created_at,updated_at,deleted_at) VALUES
+	 ('سورة الذاريات','Adh-Dhariyat','0',60,NULL,NULL,NULL),
+	 ('سورة الطور','At-tur','0',49,NULL,NULL,NULL),
+	 ('سورة النجم','An-Najm','62',62,NULL,NULL,NULL),
+	 ('سورة القمر','Al-Qamar','0',55,NULL,NULL,NULL),
+	 ('سورة الرحمن','Al-Rahman','0',78,NULL,NULL,NULL),
+	 ('سورة الواقعة','Al-Waqia','0',96,NULL,NULL,NULL),
+	 ('سورة الحديد','Al-Hadid','0',29,NULL,NULL,NULL),
+	 ('سورة المجادلة','Al-Mujadila','0',22,NULL,NULL,NULL),
+	 ('سورة الحشر','Al-Hashr','0',24,NULL,NULL,NULL),
+	 ('سورة الممتحنة','Al-Mumtahina','0',13,NULL,NULL,NULL);
+INSERT INTO ulum.surahs (arabic,latin,sajda,ayah,created_at,updated_at,deleted_at) VALUES
+	 ('سورة الصف','As-Saff','0',14,NULL,NULL,NULL),
+	 ('سورة الجمعة','Al-Jumua','0',11,NULL,NULL,NULL),
+	 ('سورة المنافقون','Al-Munafiqoon','0',11,NULL,NULL,NULL),
+	 ('سورة التغابن','At-Taghabun','0',18,NULL,NULL,NULL),
+	 ('سورة الطلاق','At-Talaq','0',12,NULL,NULL,NULL),
+	 ('سورة التحريم','At-Tahrim','0',12,NULL,NULL,NULL),
+	 ('سورة الملك','Al-Mulk','0',30,NULL,NULL,NULL),
+	 ('سورة القلم','Al-Qalam','0',52,NULL,NULL,NULL),
+	 ('سورة الحاقة','Al-Haaqqa','0',52,NULL,NULL,NULL),
+	 ('سورة المعارج','Al-Maarij','0',44,NULL,NULL,NULL);
+INSERT INTO ulum.surahs (arabic,latin,sajda,ayah,created_at,updated_at,deleted_at) VALUES
+	 ('سورة نوح','Nooh','0',28,NULL,NULL,NULL),
+	 ('سورة الجن','Al-Jinn','0',28,NULL,NULL,NULL),
+	 ('سورة المزمل','Al-Muzzammil','0',20,NULL,NULL,NULL),
+	 ('سورة المدثر','Al-Muddathir','0',56,NULL,NULL,NULL),
+	 ('سورة القيامة','Al-Qiyama','0',40,NULL,NULL,NULL),
+	 ('سورة الإنسان','Al-Insan','0',31,NULL,NULL,NULL),
+	 ('سورة المرسلات','Al-Mursalat','0',50,NULL,NULL,NULL),
+	 ('سورة النبأ','An-Naba','0',40,NULL,NULL,NULL),
+	 ('سورة النازعات','An-Naziat','0',46,NULL,NULL,NULL),
+	 ('سورة عبس','Abasa','0',42,NULL,NULL,NULL);
+INSERT INTO ulum.surahs (arabic,latin,sajda,ayah,created_at,updated_at,deleted_at) VALUES
+	 ('سورة التكوير','At-Takwir','0',29,NULL,NULL,NULL),
+	 ('سورة الإنفطار','AL-Infitar','0',19,NULL,NULL,NULL),
+	 ('سورة المطففين','Al-Mutaffifin','0',36,NULL,NULL,NULL),
+	 ('سورة الانشقاق','Al-Inshiqaq','21',25,NULL,NULL,NULL),
+	 ('سورة البروج','Al-Burooj','0',22,NULL,NULL,NULL),
+	 ('سورة الطارق','At-Tariq','0',17,NULL,NULL,NULL),
+	 ('سورة الأعلى','Al-Ala','0',19,NULL,NULL,NULL),
+	 ('سورة الغاشية','Al-Ghashiya','0',26,NULL,NULL,NULL),
+	 ('سورة الفجر','Al-Fajr','0',30,NULL,NULL,NULL),
+	 ('سورة البلد','Al-Balad','0',20,NULL,NULL,NULL);
+INSERT INTO ulum.surahs (arabic,latin,sajda,ayah,created_at,updated_at,deleted_at) VALUES
+	 ('سورة الشمس','Ash-Shams','0',15,NULL,NULL,NULL),
+	 ('سورة الليل','Al-Lail','0',21,NULL,NULL,NULL),
+	 ('سورة الضحى','Ad-Dhuha','0',11,NULL,NULL,NULL),
+	 ('سورة الشرح','Al-Inshirah','0',8,NULL,NULL,NULL),
+	 ('سورة التين','At-Tin','0',8,NULL,NULL,NULL),
+	 ('سورة العلق','Al-Alaq','19',19,NULL,NULL,NULL),
+	 ('سورة القدر','Al-Qadr','0',5,NULL,NULL,NULL),
+	 ('سورة البينة','Al-Bayyina','0',8,NULL,NULL,NULL),
+	 ('سورة الزلزلة','Al-Zalzala','0',8,NULL,NULL,NULL),
+	 ('سورة العاديات','Al-Adiyat','0',11,NULL,NULL,NULL);
+INSERT INTO ulum.surahs (arabic,latin,sajda,ayah,created_at,updated_at,deleted_at) VALUES
+	 ('سورة القارعة','Al-Qaria','0',11,NULL,NULL,NULL),
+	 ('سورة التكاثر','At-Takathur','0',8,NULL,NULL,NULL),
+	 ('سورة العصر','Al-Asr','0',3,NULL,NULL,NULL),
+	 ('سورة الهمزة','Al-Humaza','0',9,NULL,NULL,NULL),
+	 ('سورة الفيل','Al-fil','0',5,NULL,NULL,NULL),
+	 ('سورة قريش','Quraish','0',4,NULL,NULL,NULL),
+	 ('سورة الماعون','Al-Maun','0',7,NULL,NULL,NULL),
+	 ('سورة الكوثر','Al-Kauther','0',3,NULL,NULL,NULL),
+	 ('سورة الكافرون','Al-Kafiroon','0',6,NULL,NULL,NULL),
+	 ('سورة النصر','An-Nasr','0',3,NULL,NULL,NULL);
+INSERT INTO ulum.surahs (arabic,latin,sajda,ayah,created_at,updated_at,deleted_at) VALUES
+	 ('سورة المسد','Al-Masadd','0',5,NULL,NULL,NULL),
+	 ('سورة الإخلاص','Al-Ikhlas','0',4,NULL,NULL,NULL),
+	 ('سورة الفلق','Al-Falaq','0',5,NULL,NULL,NULL),
+	 ('سورة الناس','An-Nas','0',6,NULL,NULL,NULL);
